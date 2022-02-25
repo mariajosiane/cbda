@@ -1,2 +1,2 @@
 # cbda
-criano um depositorio como teste
+criando repositorio como teste
